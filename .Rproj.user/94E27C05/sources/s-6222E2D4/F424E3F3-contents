@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="ruby.css">
+<title>ruby marzovilla</title>
+</head>
+<body style="background-color:#FDCC52">
+<div>
+<center><a href='http://zoervolino.github.io/ruby'><h3>Ruby Marzovilla</h3></center></a>
+<br>
+<h5>
+<a href="about.html"><b><i>ABOUT&nbsp;</b></i></a>
+<a href="dance.html"><b><i>&nbsp;DANCE&nbsp;</b></i></a>
+<a href="press.html"><b><i>&nbsp;PRESS&nbsp;</b></i></a>
+<a href="contact.html"><b><i>&nbsp;CONTACT</i></b></a>
+</h5>
+<br>
+<center><a href="about.html"><img src="IMG_5972.jpeg" width="100%"/></a></center>
+<br>
+<hr>
+<center>
+<i><h5><a href="#top"><small><u>back to top of page</u></small></a></h5>
+</center>
+</body>
+</html>
