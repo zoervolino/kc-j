@@ -55,7 +55,7 @@ h1 {
 
 h2 {
   font-size: 45px;
-  font-family:'GLAMOURGIRL';
+  font-family:'LoveLetters';
   text-align:center;
   color:Magenta;
     text-shadow: 0 0 7px Honeydew, 0 0 5px Ivory;
