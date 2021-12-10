@@ -3,7 +3,7 @@
     "path": "~/Documents/kc-j/kc.css",
     "project_path": "kc.css",
     "type": "css",
-    "hash": "634668236",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1639147663037.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "57,26",
-        "scrollLine": "37"
+        "cursorPosition": "59,15",
+        "scrollLine": "55"
     },
     "folds": "",
-    "lastKnownWriteTime": 1639151191,
+    "lastKnownWriteTime": 1639151646,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1639151191663,
+    "last_content_update": 1639151646398,
     "read_only": false,
     "read_only_alternatives": []
 }

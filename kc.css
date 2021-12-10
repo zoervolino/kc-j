@@ -6,8 +6,8 @@
 
 
 @font-face {
-    font-family: 'GLAMOURGIRL';
-    src: url("GLAMOURGIRL.ttf");
+    font-family: 'sweetie-pie';
+    src: url("Sweetie-Pie.ttf");
     font-weight: normal;
     font-style: normal;
 }
@@ -55,9 +55,9 @@ h1 {
 
 h2 {
   font-size: 45px;
-  font-family:'GLAMOURGIRL';
+  font-family:'sweetie-pie';
   text-align:center;
-  color:Magenta;
+  color:#fc03c2;
     text-shadow: 0 0 7px Honeydew, 0 0 5px Ivory;
 }
 
